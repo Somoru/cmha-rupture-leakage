@@ -1,0 +1,24 @@
+# Raw CMHA release (~26 GB extracted) - download from figshare, see README
+data/raw/
+
+# Large CTA tensors (127 MB). Regenerate with src/prep_mesh_vol.py and
+# src/prep_detection_imaging.py
+data/processed/volumes.npy
+data/processed/volumes_detection.npy
+
+# Manuscript production and publisher template - not redistributable
+manuscript/
+template/
+tpl/
+build_docx/
+*.docx
+*.docm
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+logs/
+*.out
+*.err

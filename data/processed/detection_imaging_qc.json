@@ -1,0 +1,754 @@
+{
+  "n_patients": 105,
+  "n_controls": 44,
+  "patient_mesh": "3D_aneurysm_*.stl",
+  "control_mesh": "3D_healthy_artery_*.stl",
+  "note": "different anatomical objects per class -- see module docstring",
+  "per_case": [
+    {
+      "id": "AHMU1218001",
+      "group": "patient",
+      "cf": 0.982
+    },
+    {
+      "id": "AHMU1218002",
+      "group": "patient",
+      "cf": 0.976
+    },
+    {
+      "id": "AHMU1218003",
+      "group": "patient",
+      "cf": 0.985
+    },
+    {
+      "id": "AHMU1218004",
+      "group": "patient",
+      "cf": 0.983
+    },
+    {
+      "id": "AHMU1218005",
+      "group": "patient",
+      "cf": 0.999
+    },
+    {
+      "id": "AHMU1218006",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218007",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218008",
+      "group": "patient",
+      "cf": 0.996
+    },
+    {
+      "id": "AHMU1218009",
+      "group": "patient",
+      "cf": 0.932
+    },
+    {
+      "id": "AHMU1218010",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218011",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218012",
+      "group": "patient",
+      "cf": 0.967
+    },
+    {
+      "id": "AHMU1218013",
+      "group": "patient",
+      "cf": 0.999
+    },
+    {
+      "id": "AHMU1218014",
+      "group": "patient",
+      "cf": 0.0
+    },
+    {
+      "id": "AHMU1218015",
+      "group": "patient",
+      "cf": 0.94
+    },
+    {
+      "id": "AHMU1218016",
+      "group": "patient",
+      "cf": 0.999
+    },
+    {
+      "id": "AHMU1218017",
+      "group": "patient",
+      "cf": 0.956
+    },
+    {
+      "id": "AHMU1218018",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218019",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218020",
+      "group": "patient",
+      "cf": 0.981
+    },
+    {
+      "id": "AHMU1218021",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218022",
+      "group": "patient",
+      "cf": 0.973
+    },
+    {
+      "id": "AHMU1218023",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218024",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218025",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218026",
+      "group": "patient",
+      "cf": 0.991
+    },
+    {
+      "id": "AHMU1218027",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218028",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218029",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218030",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218031",
+      "group": "patient",
+      "cf": 0.991
+    },
+    {
+      "id": "AHMU1218032",
+      "group": "patient",
+      "cf": 0.972
+    },
+    {
+      "id": "AHMU1218033",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218034",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218035",
+      "group": "patient",
+      "cf": 0.939
+    },
+    {
+      "id": "AHMU1218036",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218037",
+      "group": "patient",
+      "cf": 0.981
+    },
+    {
+      "id": "AHMU1218038",
+      "group": "patient",
+      "cf": 0.994
+    },
+    {
+      "id": "AHMU1218039",
+      "group": "patient",
+      "cf": 0.988
+    },
+    {
+      "id": "AHMU1218040",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218041",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218042",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218043",
+      "group": "patient",
+      "cf": 0.247
+    },
+    {
+      "id": "AHMU1218044",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218045",
+      "group": "patient",
+      "cf": 0.617
+    },
+    {
+      "id": "AHMU1218046",
+      "group": "patient",
+      "cf": 0.999
+    },
+    {
+      "id": "AHMU1218047",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218048",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218049",
+      "group": "patient",
+      "cf": 0.991
+    },
+    {
+      "id": "AHMU1218050_1",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218050_2",
+      "group": "patient",
+      "cf": 0.987
+    },
+    {
+      "id": "AHMU1218051",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218052",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218053",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218054",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218055",
+      "group": "patient",
+      "cf": 0.0
+    },
+    {
+      "id": "AHMU1218056",
+      "group": "patient",
+      "cf": 0.99
+    },
+    {
+      "id": "AHMU1218057_1",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218057_2",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218058",
+      "group": "patient",
+      "cf": 0.996
+    },
+    {
+      "id": "AHMU1218059",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218060",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218061",
+      "group": "patient",
+      "cf": 0.934
+    },
+    {
+      "id": "AHMU1218062",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218063",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218064",
+      "group": "patient",
+      "cf": 0.99
+    },
+    {
+      "id": "AHMU1218065",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218066_1",
+      "group": "patient",
+      "cf": 0.986
+    },
+    {
+      "id": "AHMU1218066_2",
+      "group": "patient",
+      "cf": 0.884
+    },
+    {
+      "id": "AHMU1218067",
+      "group": "patient",
+      "cf": 0.991
+    },
+    {
+      "id": "AHMU1218068",
+      "group": "patient",
+      "cf": 0.956
+    },
+    {
+      "id": "AHMU1218069",
+      "group": "patient",
+      "cf": 0.995
+    },
+    {
+      "id": "AHMU1218070",
+      "group": "patient",
+      "cf": 0.766
+    },
+    {
+      "id": "AHMU1218071",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218072",
+      "group": "patient",
+      "cf": 0.89
+    },
+    {
+      "id": "AHMU1218073",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218074",
+      "group": "patient",
+      "cf": 0.809
+    },
+    {
+      "id": "AHMU1218075",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218076",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218077_1",
+      "group": "patient",
+      "cf": 0.0
+    },
+    {
+      "id": "AHMU1218077_2",
+      "group": "patient",
+      "cf": 0.0
+    },
+    {
+      "id": "AHMU1218078",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218079",
+      "group": "patient",
+      "cf": 0.977
+    },
+    {
+      "id": "AHMU1218080",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218081",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218082",
+      "group": "patient",
+      "cf": 0.995
+    },
+    {
+      "id": "AHMU1218083",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218084",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218085_1",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218085_2",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218086_1",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218086_2",
+      "group": "patient",
+      "cf": 0.983
+    },
+    {
+      "id": "AHMU1218087",
+      "group": "patient",
+      "cf": 0.944
+    },
+    {
+      "id": "AHMU1218088",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218089",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218090",
+      "group": "patient",
+      "cf": 0.941
+    },
+    {
+      "id": "AHMU1218091",
+      "group": "patient",
+      "cf": 0.998
+    },
+    {
+      "id": "AHMU1218092",
+      "group": "patient",
+      "cf": 0.989
+    },
+    {
+      "id": "AHMU1218093",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218094",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218095",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218096",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218097",
+      "group": "patient",
+      "cf": 0.0
+    },
+    {
+      "id": "AHMU1218098",
+      "group": "patient",
+      "cf": 1.0
+    },
+    {
+      "id": "AHMU1218099",
+      "group": "patient",
+      "cf": 0.0
+    },
+    {
+      "id": "AHMU1218100",
+      "group": "control",
+      "cf": 0.92
+    },
+    {
+      "id": "AHMU1218101",
+      "group": "control",
+      "cf": 0.826
+    },
+    {
+      "id": "AHMU1218102",
+      "group": "control",
+      "cf": 0.936
+    },
+    {
+      "id": "AHMU1218103",
+      "group": "control",
+      "cf": 0.962
+    },
+    {
+      "id": "AHMU1218104",
+      "group": "control",
+      "cf": 0.964
+    },
+    {
+      "id": "AHMU1218105",
+      "group": "control",
+      "cf": 0.85
+    },
+    {
+      "id": "AHMU1218106",
+      "group": "control",
+      "cf": 0.566
+    },
+    {
+      "id": "AHMU1218107",
+      "group": "control",
+      "cf": 0.08
+    },
+    {
+      "id": "AHMU1218108",
+      "group": "control",
+      "cf": 0.02
+    },
+    {
+      "id": "AHMU1218109",
+      "group": "control",
+      "cf": 0.819
+    },
+    {
+      "id": "AHMU1218110",
+      "group": "control",
+      "cf": 0.999
+    },
+    {
+      "id": "AHMU1218111",
+      "group": "control",
+      "cf": 0.874
+    },
+    {
+      "id": "AHMU1218112",
+      "group": "control",
+      "cf": 0.016
+    },
+    {
+      "id": "AHMU1218113",
+      "group": "control",
+      "cf": 0.975
+    },
+    {
+      "id": "AHMU1218114",
+      "group": "control",
+      "cf": 0.988
+    },
+    {
+      "id": "AHMU1218115",
+      "group": "control",
+      "cf": 0.931
+    },
+    {
+      "id": "AHMU1218116",
+      "group": "control",
+      "cf": 0.864
+    },
+    {
+      "id": "AHMU1218117",
+      "group": "control",
+      "cf": 0.935
+    },
+    {
+      "id": "AHMU1218118",
+      "group": "control",
+      "cf": 0.659
+    },
+    {
+      "id": "AHMU1218119",
+      "group": "control",
+      "cf": 0.989
+    },
+    {
+      "id": "AHMU1218120",
+      "group": "control",
+      "cf": 0.845
+    },
+    {
+      "id": "AHMU1218121",
+      "group": "control",
+      "cf": 0.894
+    },
+    {
+      "id": "AHMU1218122",
+      "group": "control",
+      "cf": 0.879
+    },
+    {
+      "id": "AHMU1218123",
+      "group": "control",
+      "cf": 0.642
+    },
+    {
+      "id": "AHMU1218124",
+      "group": "control",
+      "cf": 0.98
+    },
+    {
+      "id": "AHMU1218125",
+      "group": "control",
+      "cf": 0.979
+    },
+    {
+      "id": "AHMU1218126",
+      "group": "control",
+      "cf": 0.825
+    },
+    {
+      "id": "AHMU1218127",
+      "group": "control",
+      "cf": 0.713
+    },
+    {
+      "id": "AHMU1218128",
+      "group": "control",
+      "cf": 0.816
+    },
+    {
+      "id": "AHMU1218129",
+      "group": "control",
+      "cf": 0.606
+    },
+    {
+      "id": "AHMU1218130",
+      "group": "control",
+      "cf": 0.991
+    },
+    {
+      "id": "AHMU1218131",
+      "group": "control",
+      "cf": 0.952
+    },
+    {
+      "id": "AHMU1218132",
+      "group": "control",
+      "cf": 0.925
+    },
+    {
+      "id": "AHMU1218133",
+      "group": "control",
+      "cf": 0.976
+    },
+    {
+      "id": "AHMU1218134",
+      "group": "control",
+      "cf": 0.998
+    },
+    {
+      "id": "AHMU1218135",
+      "group": "control",
+      "cf": 0.546
+    },
+    {
+      "id": "AHMU1218136",
+      "group": "control",
+      "cf": 0.085
+    },
+    {
+      "id": "AHMU1218137",
+      "group": "control",
+      "cf": 0.991
+    },
+    {
+      "id": "AHMU1218138",
+      "group": "control",
+      "cf": 0.811
+    },
+    {
+      "id": "AHMU1218139",
+      "group": "control",
+      "cf": 0.889
+    },
+    {
+      "id": "AHMU1218140",
+      "group": "control",
+      "cf": 0.615
+    },
+    {
+      "id": "AHMU1218141",
+      "group": "control",
+      "cf": 0.167
+    },
+    {
+      "id": "AHMU1218142",
+      "group": "control",
+      "cf": 0.418
+    },
+    {
+      "id": "AHMU1218143",
+      "group": "control",
+      "cf": 0.618
+    }
+  ]
+}

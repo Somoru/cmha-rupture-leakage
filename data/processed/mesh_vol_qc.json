@@ -1,0 +1,1176 @@
+{
+  "n": 105,
+  "n_ok": 105,
+  "missing": [],
+  "n_nodes": 256,
+  "knn": 8,
+  "box_mm": 32.0,
+  "grid": 64,
+  "contrast_fraction_mean": 0.918,
+  "contrast_fraction_p10": 0.886,
+  "poorly_aligned_lt_0.2": [
+    "AHMU1218014",
+    "AHMU1218055",
+    "AHMU1218077_1",
+    "AHMU1218077_2",
+    "AHMU1218097",
+    "AHMU1218099"
+  ],
+  "per_case": [
+    {
+      "aneurysm_id": "AHMU1218001",
+      "stl": "3D_aneurysm_AHMU1218001.stl",
+      "n_verts": 1146,
+      "contrast_fraction": 0.982,
+      "centroid_ras": [
+        -19.38,
+        30.19,
+        32.92
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218002",
+      "stl": "3D_aneurysm_AHMU1218002.stl",
+      "n_verts": 9495,
+      "contrast_fraction": 0.976,
+      "centroid_ras": [
+        -25.76,
+        53.39,
+        39.95
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218003",
+      "stl": "3D_aneurysm_AHMU1218003.stl",
+      "n_verts": 12510,
+      "contrast_fraction": 0.985,
+      "centroid_ras": [
+        34.44,
+        5.09,
+        54.9
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218004",
+      "stl": "3D_aneurysm_AHMU1218004.stl",
+      "n_verts": 5568,
+      "contrast_fraction": 0.983,
+      "centroid_ras": [
+        -26.41,
+        29.28,
+        38.3
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218005",
+      "stl": "3D_aneurysm_AHMU1218005.stl",
+      "n_verts": 7794,
+      "contrast_fraction": 0.999,
+      "centroid_ras": [
+        24.6,
+        35.79,
+        68.93
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218006",
+      "stl": "3D_aneurysm_AHMU1218006.stl",
+      "n_verts": 6996,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -32.46,
+        42.45,
+        15.8
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218007",
+      "stl": "3D_aneurysm_AHMU1218007.stl",
+      "n_verts": 19149,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        17.47,
+        61.51,
+        5.39
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218008",
+      "stl": "3D_aneurysm_AHMU1218008.stl",
+      "n_verts": 4317,
+      "contrast_fraction": 0.996,
+      "centroid_ras": [
+        15.82,
+        76.48,
+        7.0
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218009",
+      "stl": "3D_aneurysm_AHMU1218009.stl",
+      "n_verts": 4299,
+      "contrast_fraction": 0.932,
+      "centroid_ras": [
+        -56.74,
+        25.06,
+        33.67
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218010",
+      "stl": "3D_aneurysm_AHMU1218010.stl",
+      "n_verts": 14073,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        40.91,
+        3.39,
+        41.87
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218011",
+      "stl": "3D_aneurysm_AHMU1218011.stl",
+      "n_verts": 8097,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -23.37,
+        43.88,
+        29.64
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218012",
+      "stl": "3D_aneurysm_AHMU1218012.stl",
+      "n_verts": 20658,
+      "contrast_fraction": 0.967,
+      "centroid_ras": [
+        -23.06,
+        13.07,
+        8.22
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218013",
+      "stl": "3D_aneurysm_AHMU1218013.stl",
+      "n_verts": 6309,
+      "contrast_fraction": 0.999,
+      "centroid_ras": [
+        23.22,
+        11.95,
+        25.32
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218014",
+      "stl": "3D_aneurysm_AHMU1218014.stl",
+      "n_verts": 4548,
+      "contrast_fraction": 0.0,
+      "centroid_ras": [
+        -36.27,
+        12.59,
+        14.9
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218015",
+      "stl": "3D_aneurysm_AHMU1218015.stl",
+      "n_verts": 5202,
+      "contrast_fraction": 0.94,
+      "centroid_ras": [
+        31.97,
+        13.17,
+        58.62
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218016",
+      "stl": "3D_aneurysm_AHMU1218016.stl",
+      "n_verts": 3672,
+      "contrast_fraction": 0.999,
+      "centroid_ras": [
+        -33.85,
+        20.03,
+        43.74
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218017",
+      "stl": "3D_aneurysm_AHMU1218017.stl",
+      "n_verts": 2013,
+      "contrast_fraction": 0.956,
+      "centroid_ras": [
+        -21.77,
+        39.98,
+        11.69
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218018",
+      "stl": "3D_aneurysm_AHMU1218018.stl",
+      "n_verts": 10515,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        27.47,
+        16.89,
+        36.41
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218019",
+      "stl": "3D_aneurysm_AHMU1218019.stl",
+      "n_verts": 5865,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        20.07,
+        18.53,
+        53.48
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218020",
+      "stl": "3D_aneurysm_AHMU1218020.stl",
+      "n_verts": 3621,
+      "contrast_fraction": 0.981,
+      "centroid_ras": [
+        -25.38,
+        30.26,
+        -41.27
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218021",
+      "stl": "3D_aneurysm_AHMU1218021.stl",
+      "n_verts": 17664,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        46.57,
+        -5.65,
+        23.33
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218022",
+      "stl": "3D_aneurysm_AHMU1218022.stl",
+      "n_verts": 21810,
+      "contrast_fraction": 0.973,
+      "centroid_ras": [
+        38.71,
+        39.56,
+        20.5
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218023",
+      "stl": "3D_aneurysm_AHMU1218023.stl",
+      "n_verts": 5922,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -28.73,
+        1.46,
+        19.74
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218024",
+      "stl": "3D_aneurysm_AHMU1218024.stl",
+      "n_verts": 23940,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        33.7,
+        20.89,
+        33.64
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218025",
+      "stl": "3D_aneurysm_AHMU1218025.stl",
+      "n_verts": 44370,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        26.3,
+        37.96,
+        22.76
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218026",
+      "stl": "3D_aneurysm_AHMU1218026.stl",
+      "n_verts": 13464,
+      "contrast_fraction": 0.991,
+      "centroid_ras": [
+        -34.64,
+        19.28,
+        7.6
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218027",
+      "stl": "3D_aneurysm_AHMU1218027.stl",
+      "n_verts": 4383,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -36.86,
+        16.93,
+        7.52
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218028",
+      "stl": "3D_aneurysm_AHMU1218028.stl",
+      "n_verts": 25890,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -15.14,
+        16.92,
+        56.99
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218029",
+      "stl": "3D_aneurysm_AHMU1218029.stl",
+      "n_verts": 3192,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        38.51,
+        95.95,
+        33.79
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218030",
+      "stl": "3D_aneurysm_AHMU1218030.stl",
+      "n_verts": 22296,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        27.85,
+        21.67,
+        46.2
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218031",
+      "stl": "3D_aneurysm_AHMU1218031.stl",
+      "n_verts": 19017,
+      "contrast_fraction": 0.991,
+      "centroid_ras": [
+        42.22,
+        22.88,
+        36.9
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218032",
+      "stl": "3D_aneurysm_AHMU1218032.stl",
+      "n_verts": 2001,
+      "contrast_fraction": 0.972,
+      "centroid_ras": [
+        20.69,
+        7.37,
+        0.02
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218033",
+      "stl": "3D_aneurysm_AHMU1218033.stl",
+      "n_verts": 40353,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        8.48,
+        10.68,
+        10.84
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218034",
+      "stl": "3D_aneurysm_AHMU1218034.stl",
+      "n_verts": 2643,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -24.32,
+        219.09,
+        -28.06
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218035",
+      "stl": "3D_aneurysm_AHMU1218035.stl",
+      "n_verts": 23604,
+      "contrast_fraction": 0.939,
+      "centroid_ras": [
+        -0.84,
+        77.19,
+        -133.05
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218036",
+      "stl": "3D_aneurysm_AHMU1218036.stl",
+      "n_verts": 14883,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        44.27,
+        35.88,
+        6.74
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218037",
+      "stl": "3D_aneurysm_AHMU1218037.stl",
+      "n_verts": 9786,
+      "contrast_fraction": 0.981,
+      "centroid_ras": [
+        20.23,
+        25.57,
+        12.69
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218038",
+      "stl": "3D_aneurysm_AHMU1218038.stl",
+      "n_verts": 8010,
+      "contrast_fraction": 0.994,
+      "centroid_ras": [
+        -41.9,
+        11.74,
+        43.66
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218039",
+      "stl": "3D_aneurysm_AHMU1218039.stl",
+      "n_verts": 26328,
+      "contrast_fraction": 0.988,
+      "centroid_ras": [
+        -31.88,
+        -43.24,
+        -395.95
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218040",
+      "stl": "3D_aneurysm_AHMU1218040.stl",
+      "n_verts": 10122,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -25.48,
+        38.16,
+        14.25
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218041",
+      "stl": "3D_aneurysm_AHMU1218041.stl",
+      "n_verts": 15408,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -29.33,
+        -32.8,
+        -370.67
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218042",
+      "stl": "3D_aneurysm_AHMU1218042.stl",
+      "n_verts": 37599,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -35.34,
+        21.41,
+        40.85
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218043",
+      "stl": "3D_aneurysm_AHMU1218043.stl",
+      "n_verts": 5574,
+      "contrast_fraction": 0.247,
+      "centroid_ras": [
+        -56.76,
+        -53.87,
+        -368.88
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218044",
+      "stl": "3D_aneurysm_AHMU1218044.stl",
+      "n_verts": 36690,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        26.83,
+        -11.27,
+        -352.37
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218045",
+      "stl": "3D_aneurysm_AHMU1218045.stl",
+      "n_verts": 12552,
+      "contrast_fraction": 0.617,
+      "centroid_ras": [
+        30.73,
+        17.93,
+        44.38
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218046",
+      "stl": "3D_aneurysm_AHMU1218046.stl",
+      "n_verts": 7407,
+      "contrast_fraction": 0.999,
+      "centroid_ras": [
+        30.48,
+        22.24,
+        25.33
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218047",
+      "stl": "3D_aneurysm_AHMU1218047.stl",
+      "n_verts": 28575,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        26.86,
+        23.05,
+        80.85
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218048",
+      "stl": "3D_aneurysm_AHMU1218048.stl",
+      "n_verts": 63879,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        29.2,
+        17.72,
+        39.27
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218049",
+      "stl": "3D_aneurysm_AHMU1218049.stl",
+      "n_verts": 3297,
+      "contrast_fraction": 0.991,
+      "centroid_ras": [
+        -49.55,
+        11.64,
+        3.79
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218050_1",
+      "stl": "3D_aneurysm_AHMU1218050_1.stl",
+      "n_verts": 6279,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -30.68,
+        24.73,
+        199.98
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218050_2",
+      "stl": "3D_aneurysm_AHMU1218050_2.stl",
+      "n_verts": 2781,
+      "contrast_fraction": 0.987,
+      "centroid_ras": [
+        28.37,
+        17.81,
+        191.63
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218051",
+      "stl": "3D_aneurysm_AHMU1218051.stl",
+      "n_verts": 1890,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        36.95,
+        40.82,
+        39.82
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218052",
+      "stl": "3D_aneurysm_AHMU1218052.stl",
+      "n_verts": 4887,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -46.72,
+        24.42,
+        45.38
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218053",
+      "stl": "3D_aneurysm_AHMU1218053.stl",
+      "n_verts": 29805,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -29.13,
+        34.0,
+        -18.99
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218054",
+      "stl": "3D_aneurysm_AHMU1218054.stl",
+      "n_verts": 4296,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -31.73,
+        9.84,
+        19.16
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218055",
+      "stl": "3D_aneurysm_AHMU1218055.stl",
+      "n_verts": 19791,
+      "contrast_fraction": 0.0,
+      "centroid_ras": [
+        31.95,
+        14.62,
+        0.07
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218056",
+      "stl": "3D_aneurysm_AHMU1218056.stl",
+      "n_verts": 3024,
+      "contrast_fraction": 0.99,
+      "centroid_ras": [
+        -27.85,
+        38.05,
+        -6.34
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218057_1",
+      "stl": "3D_aneurysm_AHMU1218057_1.stl",
+      "n_verts": 5430,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -32.8,
+        15.23,
+        83.98
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218057_2",
+      "stl": "3D_aneurysm_AHMU1218057_2.stl",
+      "n_verts": 4776,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        39.97,
+        0.62,
+        90.29
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218058",
+      "stl": "3D_aneurysm_AHMU1218058.stl",
+      "n_verts": 6702,
+      "contrast_fraction": 0.996,
+      "centroid_ras": [
+        -48.8,
+        13.42,
+        38.29
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218059",
+      "stl": "3D_aneurysm_AHMU1218059.stl",
+      "n_verts": 6396,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        24.93,
+        49.16,
+        116.17
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218060",
+      "stl": "3D_aneurysm_AHMU1218060.stl",
+      "n_verts": 8712,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        24.28,
+        24.01,
+        54.95
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218061",
+      "stl": "3D_aneurysm_AHMU1218061.stl",
+      "n_verts": 8031,
+      "contrast_fraction": 0.934,
+      "centroid_ras": [
+        29.43,
+        13.46,
+        -102.85
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218062",
+      "stl": "3D_aneurysm_AHMU1218062.stl",
+      "n_verts": 16956,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        30.4,
+        23.87,
+        6.31
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218063",
+      "stl": "3D_aneurysm_AHMU1218063.stl",
+      "n_verts": 6228,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -30.67,
+        52.23,
+        -101.79
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218064",
+      "stl": "3D_aneurysm_AHMU1218064.stl",
+      "n_verts": 2880,
+      "contrast_fraction": 0.99,
+      "centroid_ras": [
+        -27.32,
+        33.81,
+        28.25
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218065",
+      "stl": "3D_aneurysm_AHMU1218065.stl",
+      "n_verts": 6567,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -35.16,
+        72.46,
+        -118.03
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218066_1",
+      "stl": "3D_aneurysm_AHMU1218066_1.stl",
+      "n_verts": 1689,
+      "contrast_fraction": 0.986,
+      "centroid_ras": [
+        24.73,
+        74.1,
+        -54.22
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218066_2",
+      "stl": "3D_aneurysm_AHMU1218066_2.stl",
+      "n_verts": 924,
+      "contrast_fraction": 0.884,
+      "centroid_ras": [
+        -42.44,
+        70.63,
+        -47.53
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218067",
+      "stl": "3D_aneurysm_AHMU1218067.stl",
+      "n_verts": 6171,
+      "contrast_fraction": 0.991,
+      "centroid_ras": [
+        -36.79,
+        24.66,
+        -79.28
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218068",
+      "stl": "3D_aneurysm_AHMU1218068.stl",
+      "n_verts": 3474,
+      "contrast_fraction": 0.956,
+      "centroid_ras": [
+        45.7,
+        53.25,
+        -128.72
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218069",
+      "stl": "3D_aneurysm_AHMU1218069.stl",
+      "n_verts": 6615,
+      "contrast_fraction": 0.995,
+      "centroid_ras": [
+        22.55,
+        49.14,
+        -111.16
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218070",
+      "stl": "3D_aneurysm_AHMU1218070.stl",
+      "n_verts": 768,
+      "contrast_fraction": 0.766,
+      "centroid_ras": [
+        -39.15,
+        36.04,
+        -60.37
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218071",
+      "stl": "3D_aneurysm_AHMU1218071.stl",
+      "n_verts": 24003,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -45.69,
+        28.75,
+        33.92
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218072",
+      "stl": "3D_aneurysm_AHMU1218072.stl",
+      "n_verts": 8583,
+      "contrast_fraction": 0.89,
+      "centroid_ras": [
+        -31.99,
+        -2.87,
+        -66.55
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218073",
+      "stl": "3D_aneurysm_AHMU1218073.stl",
+      "n_verts": 21735,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -33.62,
+        20.82,
+        -69.71
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218074",
+      "stl": "3D_aneurysm_AHMU1218074.stl",
+      "n_verts": 1431,
+      "contrast_fraction": 0.809,
+      "centroid_ras": [
+        -21.3,
+        5.4,
+        83.35
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218075",
+      "stl": "3D_aneurysm_AHMU1218075.stl",
+      "n_verts": 13005,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        43.01,
+        36.89,
+        -80.69
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218076",
+      "stl": "3D_aneurysm_AHMU1218076.stl",
+      "n_verts": 15414,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        12.01,
+        30.4,
+        -55.38
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218077_1",
+      "stl": "3D_aneurysm_AHMU1218077_1.stl",
+      "n_verts": 11973,
+      "contrast_fraction": 0.0,
+      "centroid_ras": [
+        -33.88,
+        12.5,
+        34.61
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218077_2",
+      "stl": "3D_aneurysm_AHMU1218077_2.stl",
+      "n_verts": 36339,
+      "contrast_fraction": 0.0,
+      "centroid_ras": [
+        38.38,
+        13.16,
+        36.63
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218078",
+      "stl": "3D_aneurysm_AHMU1218078.stl",
+      "n_verts": 3564,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -23.79,
+        16.58,
+        94.96
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218079",
+      "stl": "3D_aneurysm_AHMU1218079.stl",
+      "n_verts": 6138,
+      "contrast_fraction": 0.977,
+      "centroid_ras": [
+        35.65,
+        45.57,
+        10.67
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218080",
+      "stl": "3D_aneurysm_AHMU1218080.stl",
+      "n_verts": 57936,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        48.64,
+        84.58,
+        -105.74
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218081",
+      "stl": "3D_aneurysm_AHMU1218081.stl",
+      "n_verts": 7494,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -25.63,
+        4.27,
+        -76.58
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218082",
+      "stl": "3D_aneurysm_AHMU1218082.stl",
+      "n_verts": 3057,
+      "contrast_fraction": 0.995,
+      "centroid_ras": [
+        -45.98,
+        21.55,
+        18.0
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218083",
+      "stl": "3D_aneurysm_AHMU1218083.stl",
+      "n_verts": 10569,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        34.93,
+        37.7,
+        22.75
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218084",
+      "stl": "3D_aneurysm_AHMU1218084.stl",
+      "n_verts": 2793,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -32.13,
+        9.73,
+        120.48
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218085_1",
+      "stl": "3D_aneurysm_AHMU1218085_1.stl",
+      "n_verts": 1266,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        37.65,
+        2.97,
+        -18.55
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218085_2",
+      "stl": "3D_aneurysm_AHMU1218085_2.stl",
+      "n_verts": 12960,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -35.72,
+        4.94,
+        -19.59
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218086_1",
+      "stl": "3D_aneurysm_AHMU1218086_1.stl",
+      "n_verts": 9150,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        27.99,
+        20.17,
+        -26.5
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218086_2",
+      "stl": "3D_aneurysm_AHMU1218086_2.stl",
+      "n_verts": 639,
+      "contrast_fraction": 0.983,
+      "centroid_ras": [
+        -25.92,
+        10.88,
+        -35.24
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218087",
+      "stl": "3D_aneurysm_AHMU1218087.stl",
+      "n_verts": 5298,
+      "contrast_fraction": 0.944,
+      "centroid_ras": [
+        37.85,
+        32.77,
+        42.34
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218088",
+      "stl": "3D_aneurysm_AHMU1218088.stl",
+      "n_verts": 1578,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        37.21,
+        24.99,
+        -3.3
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218089",
+      "stl": "3D_aneurysm_AHMU1218089.stl",
+      "n_verts": 3933,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -45.05,
+        18.6,
+        21.28
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218090",
+      "stl": "3D_aneurysm_AHMU1218090.stl",
+      "n_verts": 711,
+      "contrast_fraction": 0.941,
+      "centroid_ras": [
+        -3.34,
+        -64.57,
+        158.91
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218091",
+      "stl": "3D_aneurysm_AHMU1218091.stl",
+      "n_verts": 3675,
+      "contrast_fraction": 0.998,
+      "centroid_ras": [
+        -28.69,
+        -0.41,
+        -125.52
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218092",
+      "stl": "3D_aneurysm_AHMU1218092.stl",
+      "n_verts": 3219,
+      "contrast_fraction": 0.989,
+      "centroid_ras": [
+        -33.69,
+        12.88,
+        53.39
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218093",
+      "stl": "3D_aneurysm_AHMU1218093.stl",
+      "n_verts": 1785,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -23.44,
+        -50.58,
+        125.5
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218094",
+      "stl": "3D_aneurysm_AHMU1218094.stl",
+      "n_verts": 9042,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        32.7,
+        192.82,
+        -608.48
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218095",
+      "stl": "3D_aneurysm_AHMU1218095.stl",
+      "n_verts": 6234,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -29.86,
+        30.57,
+        12.73
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218096",
+      "stl": "3D_aneurysm_AHMU1218096.stl",
+      "n_verts": 951,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        28.63,
+        185.07,
+        -135.82
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218097",
+      "stl": "3D_aneurysm_AHMU1218097.stl",
+      "n_verts": 7833,
+      "contrast_fraction": 0.0,
+      "centroid_ras": [
+        -46.33,
+        63.99,
+        137.77
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218098",
+      "stl": "3D_aneurysm_AHMU1218098.stl",
+      "n_verts": 2745,
+      "contrast_fraction": 1.0,
+      "centroid_ras": [
+        -37.12,
+        43.77,
+        -90.19
+      ]
+    },
+    {
+      "aneurysm_id": "AHMU1218099",
+      "stl": "3D_aneurysm_AHMU1218099.stl",
+      "n_verts": 4596,
+      "contrast_fraction": 0.0,
+      "centroid_ras": [
+        64.24,
+        20.22,
+        -163.82
+      ]
+    }
+  ]
+}

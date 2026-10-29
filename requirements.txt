@@ -1,0 +1,11 @@
+# Core (training + evaluation). Deliberately no torch_geometric: the GNN uses a
+# dense normalised adjacency in plain PyTorch, which avoids wheel/CUDA mismatches.
+torch>=2.0
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.2
+matplotlib>=3.7
+
+# Preprocessing only (reading the raw CMHA release)
+nibabel>=5.0
+trimesh>=4.0

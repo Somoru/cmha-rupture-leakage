@@ -1,0 +1,23 @@
+{
+  "n_aneurysms": 105,
+  "n_patients": 99,
+  "n_ruptured": 77,
+  "n_unruptured": 28,
+  "n_clin_features": 16,
+  "n_morph_features": 27,
+  "excluded_leaky": [
+    "PHASE",
+    "ELAPSS"
+  ],
+  "excluded_constant": [
+    "Ealier SAH from another aneurysm"
+  ],
+  "multi_aneurysm_patients": [
+    "AHMU1218050",
+    "AHMU1218057",
+    "AHMU1218066",
+    "AHMU1218077",
+    "AHMU1218085",
+    "AHMU1218086"
+  ]
+}
