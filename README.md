@@ -337,7 +337,15 @@ CTA images and 3D models dataset with clinical, morphological and hemodynamic da
 Preprocessed tensors in `data/processed/` are derivatives of that release and carry the same
 licence. Code in this repository is MIT.
 
-A paper describing this work is under review. Citation details will be added on publication.
+This work was presented at **CISCOM 2026** and appears in the conference proceedings:
+
+> Chandra, S., Rangisetti, L.P., Nelabhotla, A., Priyadarshini: **How Evaluation Protocol and
+> Fusion Operator Shape Reported Performance in Multimodal Aneurysm Rupture Prediction.**
+> In: *Proceedings of CISCOM 2026*, Communications in Computer and Information Science,
+> Springer (2026).
+
+<!-- TODO: add volume, page range and DOI once the proceedings are indexed. -->
+
 
 ---
 
