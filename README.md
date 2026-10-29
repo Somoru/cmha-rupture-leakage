@@ -57,12 +57,12 @@ flowchart TD
     L -->|yes| M["LEAK 3<br/>vertex count tracks size,<br/>size tracks rupture"]
     L -->|"fixed 256 points"| N["CORRECTED<br/>AUC 0.714"]
 
-    style H fill:#d03b3b,color:#fff
-    style K fill:#eb6834,color:#fff
-    style N fill:#1baf7a,color:#fff
-    style G fill:#f6d5d5
-    style J fill:#fae0d0
-    style M fill:#fae0d0
+    style H fill:#c62828,stroke:#8e1f1f,stroke-width:1px,color:#ffffff
+    style K fill:#b8450f,stroke:#7d2e09,stroke-width:1px,color:#ffffff
+    style N fill:#13855e,stroke:#0c5c41,stroke-width:1px,color:#ffffff
+    style G fill:#f6d5d5,stroke:#c0504d,stroke-width:1px,color:#1a1a19
+    style J fill:#fae0d0,stroke:#c8793f,stroke-width:1px,color:#1a1a19
+    style M fill:#fae0d0,stroke:#c8793f,stroke-width:1px,color:#1a1a19
 ```
 
 ### Leak 1 — control inclusion is *provably* unfair
@@ -129,8 +129,8 @@ flowchart LR
     TE --> FUSE
     FUSE --> OUT["rupture probability"]
 
-    style F6 fill:#1baf7a,color:#fff
-    style FUSE fill:#eef4fb
+    style F6 fill:#13855e,stroke:#0c5c41,stroke-width:1px,color:#ffffff
+    style FUSE fill:#eef4fb,stroke:#9bb8d4,stroke-width:1px,color:#1a1a19
 ```
 
 ---
@@ -193,8 +193,8 @@ flowchart TD
         B3 --> B4["L1 meta-learner can set<br/>a coefficient to exactly zero"]
     end
 
-    style A4 fill:#d03b3b,color:#fff
-    style B4 fill:#1baf7a,color:#fff
+    style A4 fill:#c62828,stroke:#8e1f1f,stroke-width:1px,color:#ffffff
+    style B4 fill:#13855e,stroke:#0c5c41,stroke-width:1px,color:#ffffff
 ```
 
 The L1 meta-learner's mean coefficients track true branch quality:
