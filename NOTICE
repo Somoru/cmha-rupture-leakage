@@ -1,0 +1,24 @@
+NOTICE
+======
+
+Code in this repository is licensed under the MIT License (see LICENSE).
+
+Data
+----
+
+Files under data/processed/, results/ and results_fusion/ are derived from the
+CMHA dataset:
+
+  Song, M., Wang, S., Qian, Q., Zhou, Y., Luo, Y., Gong, X.
+  Intracranial aneurysm CTA images and 3D models dataset with clinical,
+  morphological and hemodynamic data.
+  Scientific Data 11, 1213 (2024).
+  https://doi.org/10.1038/s41597-024-04056-8
+
+CMHA is released under Creative Commons Attribution 4.0 (CC BY 4.0). These
+derivatives carry that licence rather than MIT, and reuse requires attribution
+to the dataset authors above.
+
+The raw CMHA release is not redistributed here. The two large CTA tensors
+(volumes.npy, volumes_detection.npy) are excluded and can be regenerated from
+the figshare release; see README.md.
